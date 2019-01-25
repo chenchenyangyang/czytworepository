@@ -1,0 +1,2 @@
+# czytworepository
+github*srepository
